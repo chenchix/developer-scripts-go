@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#export MODULES=(core-metadata-go core-domain-go core-command-go core-data-go consul-client-go core-clients-go support-domain-go support-logging-client-go export-go support-notifications-client-go)
+
+export MODULES=(core-clients-go)
+
